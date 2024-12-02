@@ -1,0 +1,6 @@
+D:\JavaEnginDemiroğ\northwind\src\main\java\com\kodlamaio\northwind\api\controllers\ProductsController.java
+D:\JavaEnginDemiroğ\northwind\src\main\java\com\kodlamaio\northwind\business\abstracts\ProductService.java
+D:\JavaEnginDemiroğ\northwind\src\main\java\com\kodlamaio\northwind\business\concretes\ProductManager.java
+D:\JavaEnginDemiroğ\northwind\src\main\java\com\kodlamaio\northwind\dataAccess\abstracts\ProductRepository.java
+D:\JavaEnginDemiroğ\northwind\src\main\java\com\kodlamaio\northwind\entities\concretes\Products.java
+D:\JavaEnginDemiroğ\northwind\src\main\java\com\kodlamaio\northwind\NorthwindApplication.java

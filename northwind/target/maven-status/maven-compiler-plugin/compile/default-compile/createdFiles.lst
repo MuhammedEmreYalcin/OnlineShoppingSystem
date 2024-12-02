@@ -1,0 +1,6 @@
+com\kodlamaio\northwind\NorthwindApplication.class
+com\kodlamaio\northwind\api\controllers\ProductsController.class
+com\kodlamaio\northwind\entities\concretes\Products.class
+com\kodlamaio\northwind\business\abstracts\ProductService.class
+com\kodlamaio\northwind\dataAccess\abstracts\ProductRepository.class
+com\kodlamaio\northwind\business\concretes\ProductManager.class
